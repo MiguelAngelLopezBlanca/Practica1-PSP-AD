@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="type">
+        <item>Memoria Interna</item>
+        <item>Memoria Externa</item>
+    </array>
+</resources>

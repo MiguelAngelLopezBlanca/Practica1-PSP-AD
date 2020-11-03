@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Practica1-PSP-AD</string>
+    <string name="titulo_permiso">Explicación razonada</string>
+    <string name="mensaje_permiso">Explicación larga de porqué necesito el permiso, etc.</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="button_contactos">Permisos Contactos</string>
+    <string name="button_llamadas">Permisos Llamadas</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Selecciona el tipo de memoria</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="memoriaInterna">Memoria Interna</string>
+    <string name="memoriaExterna">Memoria Externa</string>
+    <string name="key_list">typeMemory</string>
+    <string name="title_list">Tipo de memoria</string>
+</resources>
