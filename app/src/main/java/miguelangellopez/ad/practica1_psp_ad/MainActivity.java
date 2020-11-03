@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity implements SharedPreferences
         sharedPreferences = PreferenceManager.getDefaultSharedPreferences(this);
         sharedPreferences.registerOnSharedPreferenceChangeListener(listener);
 
-        onSharedPreferenceChanged(sharedPreferences, "Memoria Interna");
+        
 
     }
 
